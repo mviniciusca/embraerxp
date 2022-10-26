@@ -1,4 +1,4 @@
 ## Python Embraer XP
 
-Repositório de Python Bootcamp da Embraer
+Repositório de Python Bootcamp da Embraer - Anotações Gerais
 
