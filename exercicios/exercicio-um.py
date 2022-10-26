@@ -95,3 +95,21 @@ else:
 cpf = (cpf.replace('-', ''))
 cpf = (cpf.replace('.', ''))
 print(cpf)
+
+
+# Teste
+value = (2 + 3) * 5 - 1
+print(value)
+
+# Teste 2
+print(int(cpf))
+
+# Teste 3
+print(True and False)
+print(False or True)
+
+#
+numero = '127957'
+numero = int(numero) + 1.0
+print(type(numero))
+print(numero)
